@@ -10,7 +10,7 @@ export default function MainPage() {
       </h1>
       <img
         className={style.main_image}
-        src="https://phx02pap002files.storage.live.com/y4mTAEmC25Z3R0P31uWH8aPEKcbeazMIhLk-wuhPI_-9u2jsBdVTnJQzzFzr3l2C6cmXM08zowTwu7bICo9d1hJfNQWV0i9VklKcl7pYjq22mb7wMA91QDEel-hwQuCHnkbof-mRnpbYXysmmoFR0EFwOWnKkZY0UcgWviuhfLceLpgPsW-LZTkwR23G97JP9mC?width=171&height=256&cropmode=none"
+        src="https://phx02pap002files.storage.live.com/y4mTAEmC25Z3R0P31uWH8aPEKcbeazMIhLk-wuhPI_-9u2jsBdVTnJQzzFzr3l2C6cmXM08zowTwu7bICo9d1hJfNQWV0i9VklKcl7pYjq22mb7wMA91QDEel-hwQuCHnkbof-mRnpbYXysmmoFR0EFwOWnKkZY0UcgWviuhfLceLpgPsW-LZTkwR23G97JP9mC?width=683&height=1024&cropmode=none"
         alt="file not found"
       />
       <h2>2023.02.26 일요일 오후 12:00</h2>
