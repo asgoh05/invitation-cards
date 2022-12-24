@@ -1,0 +1,15 @@
+.main_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.name_highlight::after {
+  content: "&#x2764;";
+  display: block;
+}
