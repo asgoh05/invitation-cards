@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/invitation-cards/static/css/main.3a7f46e8.css",
+    "main.js": "/invitation-cards/static/js/main.9ebe3729.js",
+    "static/js/787.0a17c4bd.chunk.js": "/invitation-cards/static/js/787.0a17c4bd.chunk.js",
+    "index.html": "/invitation-cards/index.html",
+    "main.3a7f46e8.css.map": "/invitation-cards/static/css/main.3a7f46e8.css.map",
+    "main.9ebe3729.js.map": "/invitation-cards/static/js/main.9ebe3729.js.map",
+    "787.0a17c4bd.chunk.js.map": "/invitation-cards/static/js/787.0a17c4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7f46e8.css",
+    "static/js/main.9ebe3729.js"
+  ]
+}
