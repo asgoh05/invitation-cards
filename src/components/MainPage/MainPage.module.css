@@ -3,13 +3,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: var(--color-mint);
 }
 
 .header {
   text-align: center;
 }
 
-.name_highlight::after {
-  content: "&#x2764;";
-  display: block;
+.name_highlight {
+}
+
+.main_image {
+  width: 50%;
 }
