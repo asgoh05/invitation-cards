@@ -4,19 +4,57 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-mint);
+  margin: 0;
+  padding: 0;
+  background-color: #e8f3d6;
+  background-image: radial-gradient(
+      #faab78 1.1500000000000001px,
+      transparent 1.1500000000000001px
+    ),
+    radial-gradient(#faab78 1.1500000000000001px, #e8f3d6 1.1500000000000001px);
+  background-size: 46px 46px;
+  background-position: 0 0, 23px 23px;
+  position: relative;
 }
 
 .header {
   text-align: center;
+  line-height: 3rem;
 }
 
 .name_highlight {
 }
 
 .main_image {
-  width: 50%;
-  box-shadow: 8px 9px 0px 0px rgba(0, 0, 0, 0.6);
-  -webkit-box-shadow: 8px 9px 0px 0px rgba(0, 0, 0, 0.6);
-  -moz-box-shadow: 8px 9px 0px 0px rgba(0, 0, 0, 0.6);
+  width: 20vh;
+}
+
+.space {
+  height: 2rem;
+}
+
+.datetime {
+  font-family: "NanumBarunpen";
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.location {
+  font-family: "NanumBarunpen";
+  margin-top: 0.5rem;
+}
+
+.iframe {
+  border: var(--color-light-orange) solid 1px;
+}
+
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.leaf {
+  height: 40vw;
+  transform: scaleX(-1);
 }

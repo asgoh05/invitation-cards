@@ -6,13 +6,29 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Shining_star";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_10@1.0/Shining_star.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NanumBarunpen";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 @import "~react-image-gallery/styles/css/image-gallery.css";
 
 :root {
   --color-mint: #e8f3d6;
   --color-yellow: #fcf9be;
   --color-light-orange: #ffdca9;
-  --clolor-orange: #faab78;
+  --color-orange: #faab78;
   --color-text: rgb(67, 67, 67);
 }
 
